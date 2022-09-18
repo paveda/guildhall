@@ -1,0 +1,5 @@
+{
+  "lint-staged": {
+    "*.tsx": ["eslint --fix", "prettier --write"]
+  }
+}
