@@ -1,0 +1,17 @@
+.ProjectListPage {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+
+.ProjectListPage__header {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+
+.ProjectListPage {}
+
+.ProjectListPage {}
+
+.ProjectListPage {}
